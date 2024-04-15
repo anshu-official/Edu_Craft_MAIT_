@@ -34,9 +34,3 @@ The EduTech Platform is an innovative educational tool designed to enhance the t
 
 - Node.js and npm should be installed on your machine.
 
-### Steps
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/edutech-platform.git
-   cd edutech-platform
