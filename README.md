@@ -1,5 +1,4 @@
 
-
 # Edu Craft MAIT
 
 This repository contains the source code for the Edu Craft MAIT project.
@@ -20,3 +19,6 @@ npm start
 ## Backend
 cd ../server_new
 npm run dev
+
+## Deployment
+https://edu-craft.vercel.app/
